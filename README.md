@@ -22,9 +22,9 @@ Business planning and web prototype for a micro-divided cloud kitchen platform.
 ---
 
 ## 🛠️ Tech Stack
-**HTML** 
-**CSS**
-**JavaScript**
+- **HTML** 
+- **CSS**
+- **JavaScript**
 
 ---
 
@@ -39,9 +39,9 @@ Business planning and web prototype for a micro-divided cloud kitchen platform.
 
 ## 📸 Screenshots
 
-| Step 1: ROI Selection & Tracking | Step 2: Final Result (Logo Removed) |
-| :---: | :---: |
-| <img src="result1.gif" width="450" alt="Logo Detection Screenshot"> | <img src="result2.gif" width="450" alt="Logo Removal Result Screenshot"> |
+| Hero Section | About | Benefits | Contact | Process |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="Main.jpg" width="450" alt="Logo Detection Screenshot"> | <img src="Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Benefit.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Benefit2.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Benefit3.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> |
 | **ROI Selection:** Users press the 'S' key to set a bounding box around the target logo, which is then tracked across frames. | **Removal:** The selected logo is removed and the background is reconstructed in real time. |
 
 ---
