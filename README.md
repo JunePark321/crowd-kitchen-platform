@@ -51,3 +51,9 @@ Business planning and web prototype for a micro-divided cloud kitchen platform.
 
 ---
 
+
+https://github.com/user-attachments/assets/2bb34dc7-9e12-44a3-8f83-4c4e90cd5275
+
+
+
+
