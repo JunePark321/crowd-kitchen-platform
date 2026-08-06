@@ -41,17 +41,17 @@ Business planning and web prototype for a micro-divided cloud kitchen platform.
 
 | [ Hero Section ] | [ About ] | [ Benefits ] | 
 | :---: | :---: | :---: |
-| <img src="Web_Preview/Main.jpg" width="450" alt="Logo Detection Screenshot"> | <img src="Web_Preview/Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Web_Preview/Benefit.jpg" width="450" alt="Logo Removal Result Screenshot"> |
+| <img src="Web_Preview/Main.jpg" width="450" alt="Main Section Screenshot"> | <img src="Web_Preview/Intro.jpg" width="450" alt="Intro Section Screenshot"> | <img src="Web_Preview/Benefit.jpg" width="450" alt="Benefit Section Screenshot"> |
 
 
 | [ Benefits2 ] | [ Form ] | [ Process ] | 
 | :---: | :---: | :---: |
-| <img src="Web_Preview/Benefit3.jpg" width="450" alt="Logo Detection Screenshot"> | <img src="Web_Preview/Form.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Web_Preview/Steps.jpg" width="450" alt="Logo Removal Result Screenshot"> |
+| <img src="Web_Preview/Benefit3.jpg" width="450" alt="Main Section Screenshot"> | <img src="Web_Preview/Form.jpg" width="450" alt="Benefit Section Screenshot"> | <img src="Web_Preview/Steps.jpg" width="450" alt="Process Section Screenshot"> |
 
 
 ---
 
-
+## 📽️ Demo Video
 https://github.com/user-attachments/assets/2bb34dc7-9e12-44a3-8f83-4c4e90cd5275
 
 
