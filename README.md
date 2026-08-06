@@ -41,7 +41,7 @@ Business planning and web prototype for a micro-divided cloud kitchen platform.
 
 | Hero Section | About | Benefits | 
 | :---: | :---: | :---: |
-| <img src="Web_Images/Main.jpg" width="450" alt="Logo Detection Screenshot"> | <img src="Web_Images/Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Web_Images/Benefit.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Web_Images/Benefit2.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Benefit3.jpg" width="450" alt="Web_Images/Logo Removal Result Screenshot"> | <img src="Web_Images/Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> |
+| <img src="Web_Images/Main.jpg" width="450" alt="Logo Detection Screenshot"> | <img src="Web_Images/Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Web_Images/Benefit.jpg" width="450" alt="Logo Removal Result Screenshot"> |
 | **ROI Selection:** Users press the 'S' key to set a bounding box around the target logo, which is then tracked across frames. | **Removal:** The selected logo is removed and the background is reconstructed in real time. |
 
 ---
