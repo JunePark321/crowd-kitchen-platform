@@ -44,5 +44,10 @@ Business planning and web prototype for a micro-divided cloud kitchen platform.
 | <img src="Web_Images/Main.jpg" width="450" alt="Logo Detection Screenshot"> | <img src="Web_Images/Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Web_Images/Benefit.jpg" width="450" alt="Logo Removal Result Screenshot"> |
 | ddd | **Removal:** |
 
+| Hero Section | About | Benefits | 
+| :---: | :---: | :---: |
+| <img src="Web_Images/Main.jpg" width="450" alt="Logo Detection Screenshot"> | <img src="Web_Images/Intro.jpg" width="450" alt="Logo Removal Result Screenshot"> | <img src="Web_Images/Benefit.jpg" width="450" alt="Logo Removal Result Screenshot"> |
+| ddd | **Removal:** |
+
 ---
 
